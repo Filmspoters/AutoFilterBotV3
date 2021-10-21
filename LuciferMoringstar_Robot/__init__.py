@@ -13,17 +13,27 @@ from .Channel import (
 HELP = """
 Basic Commads
 
-/start :- check am Alive
+[ Photo ]
+🙋🏻‍♂️   Hellooo     {first}
 
-Bot Owner Only
-/broadcast Replay Any Message or Media
-/stats user Status
-/ban_user  click ban_user more info
-/unban_user click unban_user more info
-/banned_users Banned User Details
-/total How Many Files Added In Database
-/logger  Get Logs
-/delete Delete File From Database
+○  it's Note Complicated...🤓
+
+○  Search using inline mode
+This methord works on any chat, Just type @TGMovieRobot and then leave a space and search any movie you want...
+
+○ Available Commands
+     
+ /start - Check I'm Alive..
+ /Status - Bot Status
+ /Info - User info 
+ /broadcast - Broadcast (owner only)
+ /stats - Db status  (owner only )
+
+○ Notice 📙:-
+
+○Dont Spam Me...🤒
+
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ @filmspoteradmin
 
 """
 
